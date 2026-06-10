@@ -18,7 +18,7 @@
 
 ### 👩‍💻 A Little About Me
 
-<img align="right" width="200" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Animated Developer" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Developer" />
 
 - 🎓 A passionate **student** focused on creating seamless web and mobile experiences.
 - 💻 Building modern, responsive projects with **Web Technologies** and **Flutter**.
