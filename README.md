@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👩‍💻 Khushi Umrao
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Khushi%20Umrao&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Flutter%20Dev&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Web+Developer+%E2%9C%A6+Flutter+Dev;HTML+%C2%B7+CSS+%C2%B7+JS+%C2%B7+Dart;Building+for+Web+%26+Mobile;Code.+Design.+Ship.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Web+Developer+%E2%9C%A6+Flutter+Dev;HTML+%C2%B7+CSS+%C2%B7+JS+%C2%B7+Dart;Building+for+Web+%26+Mobile;Code.+Design.+Ship.+Repeat.;Transforming+Ideas+into+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -17,6 +17,8 @@
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=2&section=header" width="100%"/>
 
 ## 🎯 What I Specialise In
 
@@ -49,28 +51,31 @@
 
 ## ⚡ Skills & Expertise
 
-**🖥️ Web Development**
-&nbsp;
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,cpp,python&theme=dark&perline=7" />
+
+</div>
+
+<br/>
+
+**🖥️ Web Development** &nbsp;
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**📱 Mobile / Software**
-&nbsp;
+**📱 Mobile / Software** &nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**💻 Programming**
-&nbsp;
+**💻 Programming** &nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**🤝 Soft Skills**
-&nbsp;
+**🤝 Soft Skills** &nbsp;
 `Teamwork` &nbsp; `Communication` &nbsp; `Analytical Thinking` &nbsp; `Time Management`
 
-**🔬 Research Skills**
-&nbsp;
+**🔬 Research Skills** &nbsp;
 `Technical Documentation` &nbsp; `Literature Review` &nbsp; `Experimentation` &nbsp; `Data Analysis` &nbsp; `Prototype Testing` &nbsp; `Report Writing`
 
 ---
@@ -87,6 +92,24 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaKhushi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1120&title_color=38BDF8&text_color=e2e8f0&langs_count=6" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LunaKhushi&theme=tokyo-night&hide_border=true&bg_color=0d1120&color=38BDF8&line=C084FC&point=F472B6" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LunaKhushi/LunaKhushi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LunaKhushi/LunaKhushi/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LunaKhushi/LunaKhushi/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
@@ -96,7 +119,7 @@
 <div align="center">
 
 | Platform | Link |
-|---|---|
+|:---:|:---|
 | 💼 LinkedIn | [Khushi Umrao](https://www.linkedin.com/in/khushi-umrao/) |
 | 🐙 GitHub | [@LunaKhushi](https://github.com/LunaKhushi) |
 | ✉️ Email | [Drop me a message](mailto:khushi.mystudy999@gmail.com) |
@@ -106,8 +129,4 @@
 
 ---
 
-<div align="center">
-
-*Made with ♥ by Khushi Umrao · Web Dev & Flutter · Thanks for visiting ✨*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
